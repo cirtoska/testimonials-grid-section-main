@@ -29,10 +29,6 @@ Users should be able to:
 <img src="https://i.ibb.co/kmrSBFJ/Screenshot-2022-03-20-at-22-59-56-Frontend-Mentor-Testimonials-grid-section-challenge-hub.png" alt="Screenshot-2022-03-20-at-22-59-56-Frontend-Mentor-Testimonials-grid-section-challenge-hub" border="0">
 <img src="https://i.ibb.co/6WYNj7H/Screenshot-2022-03-20-at-23-00-26-Frontend-Mentor-Testimonials-grid-section-challenge-hub.png" alt="Screenshot-2022-03-20-at-23-00-26-Frontend-Mentor-Testimonials-grid-section-challenge-hub" border="0">
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
