@@ -1,37 +1,137 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
 
-You can use the [editor on GitHub](https://github.com/cirtoska/testimonials-grid-section-main/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="./style.css" />
+    <title>Frontend Mentor | Testimonials grid section challenge hub</title>
+  </head>
+  <body>
+    <section class="testimonial">
+      <div class="card">
+        <div class="imgName">
+          <img src="./images/image-daniel.jpg" alt="Daniel Clifford" />
+          <div class="name">
+            <h4>Daniel Clifford</h4>
+            <p class="title">Verified Graduate</p>
+          </div>
+        </div>
+        <div class="card_testimonial">
+          <h3>
+            I received a job offer mid-course, and the subjects I learned were
+            current, if not more so, in the company I joined. I honestly feel I
+            got every penny's worth.
+          </h3>
+          <p class="quote">
+            “ I was an EMT for many years before I joined the bootcamp. I've
+            been looking to make a transition and have heard some people who had
+            an amazing experience here. I signed up for the free intro course
+            and found it incredibly fun! I enrolled shortly thereafter. The next
+            12 weeks was the best - and most grueling - time of my life. Since
+            completing the course, I've successfully switched careers, working
+            as a Software Engineer at a VR startup. ”
+          </p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="imgName">
+          <img src="./images/image-jonathan.jpg" alt="Jonathan Walters" />
+          <div class="name">
+            <h4>Jonathan Walters</h4>
+            <p class="title">Verified Graduate</p>
+          </div>
+        </div>
+        <div class="card_testimonial">
+          <h3>The team was very supportive and kept me motivated</h3>
+          <p class="quote">
+            “ I started as a total newbie with virtually no coding skills. I now
+            work as a mobile engineer for a big company. This was one of the
+            best investments I've made in myself. ”
+          </p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="imgName">
+          <img src="./images/image-jeanette.jpg" alt="Jeanette Harmon" />
+          <div class="name">
+            <h4>Jeanette Harmon</h4>
+            <p class="title">Verified Graduate</p>
+          </div>
+        </div>
+        <div class="card_testimonial">
+          <h3>An overall wonderful and rewarding experience</h3>
+          <p class="quote">
+            “ Thank you for the wonderful experience! I now have a job I really
+            enjoy, and make a good living while doing something I love. ”
+          </p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="imgName">
+          <img src="./images/image-patrick.jpg" alt="Patrick Abrams" />
+          <div class="name">
+            <h4>Patrick Abrams</h4>
+            <p class="title">Verified Graduate</p>
+          </div>
+        </div>
+        <div class="card_testimonial">
+          <h3>
+            Awesome teaching support from TAs who did the bootcamp themselves.
+            Getting guidance from them and learning from their experiences was
+            easy.
+          </h3>
+          <p class="quote">
+            “ The staff seem genuinely concerned about my progress which I find
+            really refreshing. The program gave me the confidence necessary to
+            be able to go out in the world and present myself as a capable
+            junior developer. The standard is above the rest. You will get the
+            personal attention you need from an incredible community of smart
+            and amazing people. ”
+          </p>
+        </div>
+      </div>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cirtoska/testimonials-grid-section-main/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+      <div class="card">
+        <div class="imgName">
+          <img src="./images/image-kira.jpg" alt="Kira Whittle" />
+          <div class="name">
+            <h4>Kira Whittle</h4>
+            <p class="title">Verified Graduate</p>
+          </div>
+        </div>
+        <div class="card_testimonial">
+          <h3>Such a life-changing experience. Highly recommended!</h3>
+          <p class="quote">
+            “ Before joining the bootcamp, I've never written a line of code. I
+            needed some structure from professionals who can help me learn
+            programming step by step. I was encouraged to enroll by a former
+            student of theirs who can only say wonderful things about the
+            program. The entire curriculum and staff did not disappoint. They
+            were very hands-on and I never had to wait long for assistance. The
+            agile team project, in particular, was outstanding. It took my
+            learning to the next level in a way that no tutorial could ever
+            have. In fact, I've often referred to it during interviews as an
+            example of my developent experience. It certainly helped me land a
+            job as a full-stack developer after receiving multiple offers. 100%
+            recommend! ”
+          </p>
+        </div>
+      </div>
+    </section>
+    <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
+        >Frontend Mentor</a
+      >. &copy; 2022. Coded by
+      <a href="https://github.com/cirtoska">Sashka.Chi</a>.
+    </footer>
+  </body>
+</html>
